@@ -1,4 +1,5 @@
 #if 1 // __MSTC__, richardtest, C1100Z PA issue.
+// test1
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
