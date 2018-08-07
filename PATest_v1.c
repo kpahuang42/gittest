@@ -6,6 +6,10 @@
 // test1
 
 // add new function
+void test1()
+{
+}
+
 void doPACheck(void)
 {
    FILE *wifiPAFile = NULL;
