@@ -8,6 +8,7 @@
 // add new function
 void test1()
 {
+ return ;
 }
 
 void doPACheck(void)
@@ -79,7 +80,7 @@ int main(int argc, char *argv[])
 
    doPACheck();
 
-   // bug fix
+   // #1 bug fix
 
    return 0;
 }
