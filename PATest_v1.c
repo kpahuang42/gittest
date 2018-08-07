@@ -73,6 +73,8 @@ int main(int argc, char *argv[])
 
    doPACheck();
 
+   // bug fix
+
    return 0;
 }
 #endif
