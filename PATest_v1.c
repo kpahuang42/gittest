@@ -4,6 +4,8 @@
 #include <string.h>
 #include <unistd.h>
 // test1
+
+// add new function
 void doPACheck(void)
 {
    FILE *wifiPAFile = NULL;
