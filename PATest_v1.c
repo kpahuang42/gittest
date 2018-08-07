@@ -4,6 +4,13 @@
 #include <string.h>
 #include <unistd.h>
 // test1
+
+// add new function
+void test1()
+{
+ return ;
+}
+
 void doPACheck(void)
 {
    FILE *wifiPAFile = NULL;
