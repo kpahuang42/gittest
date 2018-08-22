@@ -5,6 +5,12 @@
 #include <string.h>
 #include <unistd.h>
 
+// add test2 function
+void test2()
+{
+ return ;
+}
+
 void doWlTestMode(void)
 {
    system("wl pkteng_stop tx");

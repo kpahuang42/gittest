@@ -5,8 +5,14 @@
 #include <unistd.h>
 // test1
 
-// add new function
+// add test1 function
 void test1()
+{
+ return ;
+}
+
+// add test2 function
+void test2()
 {
  return ;
 }
