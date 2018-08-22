@@ -11,6 +11,12 @@ void test2()
  return ;
 }
 
+// add test3 function
+void test3()
+{
+ return ;
+}
+
 void doWlTestMode(void)
 {
    system("wl pkteng_stop tx");

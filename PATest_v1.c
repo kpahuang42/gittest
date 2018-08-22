@@ -4,7 +4,7 @@
 #include <string.h>
 #include <unistd.h>
 // test1
-// add comment
+
 // add test1 function
 void test1()
 {
@@ -13,6 +13,12 @@ void test1()
 
 // add test2 function
 void test2()
+{
+ return ;
+}
+
+// add test3 function
+void test3()
 {
  return ;
 }
